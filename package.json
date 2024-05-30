@@ -2,6 +2,7 @@
   "name": "bankai",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://byWhish.github.io/bankai/",
   "type": "module",
   "scripts": {
     "dev": "vite",
